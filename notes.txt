@@ -1,0 +1,5 @@
+hi vishal
+here are some improvements points
+1. keep equal margin in left and right side fro each element rg. footer, header, blog in your site most element have more margin in right then in left
+2. blog images are not showing up check this link for preview https://htmlpreview.github.io/?https://github.com/Vishal-Agarwal77/Grant-Foundation/blob/main/grantfoundation.html
+3. align each element equally. all items have same distance from left and right
